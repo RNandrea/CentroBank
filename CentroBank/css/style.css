@@ -1,0 +1,214 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,500;0,600;0,800;1,600&display=swap');
+
+a#nunito {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 605;
+    font-size: large;
+    color: #303F9F;
+}
+
+a#nunitobtn {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 605;
+    font-size: medium;
+    color: #303F9F;
+}
+
+a#nunito1 {
+    font-family: 'Nunito', sans-serif;
+    color: #FFFFFF;
+}
+
+    a#nunito1:hover {
+        color: #C5CAE9;
+    }
+
+div#contenedor1 {
+    width: auto;
+    height: 10px;
+    background-color: #303F9F;
+}
+
+div#contenedor2 {
+    width: auto;
+    height: 25px;
+    background-color: #e8eaf6;
+}
+
+div#contenedor3 {
+    width: auto;
+}
+
+div#contenedor4 {
+    margin-top: 3%;
+    width: auto;
+    height: 200px;
+    background-color: #c5cae9;
+    opacity: .9;
+}
+
+div#contenedorsubt {
+    width: auto;
+    height: 50px;
+    background-color: #303F9F;
+}
+
+div#input-field {
+    border-radius: 20px;
+    background-color: #757575;
+}
+
+div#contenedortitulo {
+    width: auto;
+    height: 30px;
+    background-color: #303F9F;
+    color: #FFFFFF;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bolder;
+    font-size: large;
+}
+
+div#contenedorv {
+    width: auto;
+    height: 250px;
+    background-color: #303F9F;
+    opacity: 0.5;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bolder;
+    font-size: large;
+}
+
+div#img1 {
+    width: auto;
+    height: 450px;
+    background-size: 1520px 450px;
+    background-image: url("/img/impacto-economia.jpg");
+}
+
+div#img2 {
+    width: auto;
+    height: 350px;
+    background-image: url("/img/depositphotos_147823461-stock-photo-businesspeople-signing-papers.jpg");
+    background-size: 1520px 350px;
+}
+
+div#img3 {
+    width: auto;
+    height: 350px;
+    background-image: url("/img/prestamoviajes.jpg");
+    background-size: 1520px 450px;
+}
+
+div#img4 {
+    width: auto;
+    height: 350px;
+    background-image: url("/img/calculosl.jpg");
+    background-size: 1520px 350px;
+}
+
+div#img5 {
+    width: auto;
+    height: 350px;
+    background-image: url("/img/usuarios.jpg");
+    background-size: 1520px 350px;
+}
+
+div#img6 {
+    width: auto;
+    height: 350px;
+    background-image: url("/img/bank.jpg");
+    background-size: 1520px 350px;
+}
+
+div#espacio {
+    margin-top: 50px;
+}
+
+div#espacio2 {
+    margin-top: 25px;
+}
+
+div#espacio3 {
+    margin-top: 7px;
+}
+
+h8 {
+    font-family: 'Nunito', sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    color: #303F9F;
+}
+
+h5 {
+    font-family: 'Nunito', sans-serif;
+    font-weight: bolder;
+    color: #303F9F;
+}
+
+h4 {
+    margin-top: 30px;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bolder;
+    color: #303F9F;
+    text-align: center;
+}
+
+lt {
+    font-family: 'Nunito', sans-serif;
+    font-weight: bolder;
+    color: black;
+    font-size: large;
+}
+
+lt2 {
+    font-family: 'Nunito', sans-serif;
+    font-weight: bolder;
+    color: black;
+    font-size: x-large;
+}
+
+h3 {
+    font-family: 'Nunito', sans-serif;
+    color: black;
+    font-weight: 900;
+}
+
+t1 {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 605;
+    font-size: 45px;
+    color: #303F9F;
+    margin-bottom: 10px;
+}
+
+t2 {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 605;
+    font-size: x-large;
+    color: #FFFFFF;
+}
+
+p {
+    font-family: 'Nunito', sans-serif;
+    font-size: medium;
+}
+
+p2 {
+    font-family: 'Nunito', sans-serif;
+    font-size: large;
+}
+
+.fontNunito {
+    color: #303F9F;
+    font-family: Nunito;
+    font-weight: bold;
+    font-size: large;
+}
+
+a .dropdown-content li {
+    font-size: 16px;
+    color: #303F9F;
+    display: block;
+    line-height: 22px;
+    padding: 14px 16px;
+}
