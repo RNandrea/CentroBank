@@ -135,7 +135,7 @@
                     <div class="row" >
                         <div class="col s7 m7 l9"></div>
                         <div class="col s5 m5 l3">
-                            <a class="white-text hoverable" href="/PrestamoPersonal.html">Ver más</a>
+                            <a class="white-text hoverable" href="/frmPrestamosPersonal.aspx">Ver más</a>
                         </div>
                     </div>
                 </div>
@@ -169,7 +169,7 @@
                     <div class="row" >
                         <div class="col s7 m7 l9"></div>
                         <div class="col s5 m5 l3">
-                            <a class="white-text hoverable"  href="/UnificacionDeudas.html">Ver más</a>
+                            <a class="white-text hoverable"  href="/frmUnificacionDeudas.aspx">Ver más</a>
                         </div>
                     </div>
                 </div>
@@ -202,7 +202,7 @@
                     <div class="row" >
                         <div class="col s7 m7 l9"></div>
                         <div class="col s5 m5 l3">
-                            <a class="white-text hoverable" href="/Minicredito.html">Ver más</a>
+                            <a class="white-text hoverable" href="/frmMinicredito.aspx">Ver más</a>
                         </div>
                     </div>
                 </div>
@@ -235,7 +235,7 @@
                     <div class="row" >
                         <div class="col s7 m7 l9"></div>
                         <div class="col s5 m5 l3">
-                            <a class="white-text hoverable" href="/PMultiptoposito.html">Ver más</a>
+                            <a class="white-text hoverable" href="/frmPrestamoMultiproposito.aspx">Ver más</a>
                         </div>
                     </div>
                 </div>

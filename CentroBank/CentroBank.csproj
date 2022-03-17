@@ -77,7 +77,11 @@
     <Content Include="frmCreditosVehiculos.aspx" />
     <Content Include="frmCreditosVivienda.aspx" />
     <Content Include="frmLogin.aspx" />
+    <Content Include="frmMinicredito.aspx" />
+    <Content Include="frmPrestamoMultiproposito.aspx" />
+    <Content Include="frmPrestamosPersonal.aspx" />
     <Content Include="frmRegistrarse.aspx" />
+    <Content Include="frmUnificacionDeudas.aspx" />
     <Content Include="img\20200811215130.leasing-renting.jpg" />
     <Content Include="img\20211105112646.carros-electricos.jpg" />
     <Content Include="img\2919600.png" />
@@ -216,12 +220,40 @@
     <Compile Include="frmLogin.aspx.designer.cs">
       <DependentUpon>frmLogin.aspx</DependentUpon>
     </Compile>
+    <Compile Include="frmMinicredito.aspx.cs">
+      <DependentUpon>frmMinicredito.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmMinicredito.aspx.designer.cs">
+      <DependentUpon>frmMinicredito.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrestamoMultiproposito.aspx.cs">
+      <DependentUpon>frmPrestamoMultiproposito.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmPrestamoMultiproposito.aspx.designer.cs">
+      <DependentUpon>frmPrestamoMultiproposito.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrestamosPersonal.aspx.cs">
+      <DependentUpon>frmPrestamosPersonal.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmPrestamosPersonal.aspx.designer.cs">
+      <DependentUpon>frmPrestamosPersonal.aspx</DependentUpon>
+    </Compile>
     <Compile Include="frmRegistrarse.aspx.cs">
       <DependentUpon>frmRegistrarse.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="frmRegistrarse.aspx.designer.cs">
       <DependentUpon>frmRegistrarse.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmUnificacionDeudas.aspx.cs">
+      <DependentUpon>frmUnificacionDeudas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmUnificacionDeudas.aspx.designer.cs">
+      <DependentUpon>frmUnificacionDeudas.aspx</DependentUpon>
     </Compile>
     <Compile Include="Index.aspx.cs">
       <DependentUpon>Index.aspx</DependentUpon>
