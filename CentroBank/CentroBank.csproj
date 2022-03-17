@@ -73,14 +73,20 @@
     <Content Include="content\materialize\font\material-design-icons\Material-Design-Icons.svg" />
     <Content Include="css\style.css" />
     <Content Include="frmCalculadoradeCreditos.aspx" />
+    <Content Include="frmCompraLote.aspx" />
+    <Content Include="frmCompraVehiculo.aspx" />
+    <Content Include="frmCompraVehiculoSostenible.aspx" />
+    <Content Include="frmCompraVivienda.aspx" />
     <Content Include="frmCreditosPersonales.aspx" />
     <Content Include="frmCreditosVehiculos.aspx" />
     <Content Include="frmCreditosVivienda.aspx" />
+    <Content Include="frmLeasingFinanciero.aspx" />
     <Content Include="frmLogin.aspx" />
     <Content Include="frmMinicredito.aspx" />
     <Content Include="frmPrestamoMultiproposito.aspx" />
     <Content Include="frmPrestamosPersonal.aspx" />
     <Content Include="frmRegistrarse.aspx" />
+    <Content Include="frmTransladoHipoteca.aspx" />
     <Content Include="frmUnificacionDeudas.aspx" />
     <Content Include="img\20200811215130.leasing-renting.jpg" />
     <Content Include="img\20211105112646.carros-electricos.jpg" />
@@ -192,6 +198,34 @@
     <Compile Include="frmCalculadoradeCreditos.aspx.designer.cs">
       <DependentUpon>frmCalculadoradeCreditos.aspx</DependentUpon>
     </Compile>
+    <Compile Include="frmCompraLote.aspx.cs">
+      <DependentUpon>frmCompraLote.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmCompraLote.aspx.designer.cs">
+      <DependentUpon>frmCompraLote.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmCompraVehiculo.aspx.cs">
+      <DependentUpon>frmCompraVehiculo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmCompraVehiculo.aspx.designer.cs">
+      <DependentUpon>frmCompraVehiculo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmCompraVehiculoSostenible.aspx.cs">
+      <DependentUpon>frmCompraVehiculoSostenible.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmCompraVehiculoSostenible.aspx.designer.cs">
+      <DependentUpon>frmCompraVehiculoSostenible.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmCompraVivienda.aspx.cs">
+      <DependentUpon>frmCompraVivienda.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmCompraVivienda.aspx.designer.cs">
+      <DependentUpon>frmCompraVivienda.aspx</DependentUpon>
+    </Compile>
     <Compile Include="frmCreditosPersonales.aspx.cs">
       <DependentUpon>frmCreditosPersonales.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -212,6 +246,13 @@
     </Compile>
     <Compile Include="frmCreditosVivienda.aspx.designer.cs">
       <DependentUpon>frmCreditosVivienda.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmLeasingFinanciero.aspx.cs">
+      <DependentUpon>frmLeasingFinanciero.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmLeasingFinanciero.aspx.designer.cs">
+      <DependentUpon>frmLeasingFinanciero.aspx</DependentUpon>
     </Compile>
     <Compile Include="frmLogin.aspx.cs">
       <DependentUpon>frmLogin.aspx</DependentUpon>
@@ -247,6 +288,13 @@
     </Compile>
     <Compile Include="frmRegistrarse.aspx.designer.cs">
       <DependentUpon>frmRegistrarse.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmTransladoHipoteca.aspx.cs">
+      <DependentUpon>frmTransladoHipoteca.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmTransladoHipoteca.aspx.designer.cs">
+      <DependentUpon>frmTransladoHipoteca.aspx</DependentUpon>
     </Compile>
     <Compile Include="frmUnificacionDeudas.aspx.cs">
       <DependentUpon>frmUnificacionDeudas.aspx</DependentUpon>

@@ -134,7 +134,7 @@
                     <div class="row" >
                         <div class="col s7 m7 l9"></div>
                         <div class="col s5 m5 l3">
-                            <a class="white-text hoverable" href="/CompraVehiculo.html">Ver más</a>
+                            <a class="white-text hoverable" href="/frmCompraVehiculo.aspx">Ver más</a>
                         </div>
                     </div>
                 </div>
@@ -168,7 +168,7 @@
                     <div class="row" >
                         <div class="col s7 m7 l9"></div>
                         <div class="col s5 m5 l3">
-                            <a class="white-text hoverable" href="/VehiculoSostenible.html">Ver más</a>
+                            <a class="white-text hoverable" href="/frmCompraVehiculoSostenible.aspx">Ver más</a>
                         </div>
                     </div>
                 </div>
@@ -201,7 +201,7 @@
                     <div class="row" >
                         <div class="col s7 m7 l9"></div>
                         <div class="col s5 m5 l3">
-                            <a class="white-text hoverable" href="/LeasinFinanciaro.html">Ver más</a>
+                            <a class="white-text hoverable" href="/frmLeasingFinanciero.aspx">Ver más</a>
                         </div>
                     </div>
                 </div>
