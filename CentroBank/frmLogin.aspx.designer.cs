@@ -11,7 +11,7 @@ namespace CentroBank
 {
 
 
-    public partial class frmCreditosVivienda
+    public partial class frmLogin
     {
     }
 }

@@ -27,11 +27,11 @@
       <nav class="white" style="padding: 0px 18px; ">
       <div class="navbar-wrapper">
         <ul id="dropdown1" class="dropdown-content">
-          <li><a id="Nunito" style=" color: #303F9F;font-weight: 605; font-size: large;" href="/CrediPersonles.html">Créditos Personales</a></li>
+          <li><a id="Nunito" style=" color: #303F9F;font-weight: 605; font-size: large;" href="/frmCreditosPersonales.aspx">Créditos Personales</a></li>
           <li class="divider"></li>
-          <li><a id="Nunito" style=" color: #303F9F;font-weight: 605; font-size: large;"  href="/CrediVehiculos.html">Créditos de Vehículos</a></li>
+          <li><a id="Nunito" style=" color: #303F9F;font-weight: 605; font-size: large;"  href="/frmCreditosVehiculos.aspx">Créditos de Vehículos</a></li>
           <li class="divider"></li>
-          <li><a id="Nunito" style=" color: #303F9F;font-weight: 605; font-size: large;" href="/CrediVivienda.html">Créditos de Vivienda</a></li>
+          <li><a id="Nunito" style=" color: #303F9F;font-weight: 605; font-size: large;" href="/frmCreditosVivienda.aspx">Créditos de Vivienda</a></li>
         </ul>
         
   
@@ -41,12 +41,12 @@
               <i class="material-icons indigo darken-2">menu</i>
             </a>
             <ul id="nav-menu" class=" right hide-on-med-and-down">
-              <li><a id="Nunito" style=" color: #303F9F;font-weight: 605; font-size: large;"  href="index.html">Inicio</a></li>
+              <li><a id="Nunito" style=" color: #303F9F;font-weight: 605; font-size: large;"  href="/Index.aspx">Inicio</a></li>
               <li><a id="Nunito" style=" color: #303F9F;font-weight: 605; font-size: large;"  class="dropdown-trigger" href="#!" data-target="dropdown1">Créditos<i
                     class="material-icons right">arrow_drop_down</i></a></li>
-              <li><a id="Nunito" style=" color: #303F9F;font-weight: 605; font-size: large;"  href="/Calculadoracreditos.html">Calculadora de créditos</a></li>
-              <li><a id="Nunito" style=" color: #303F9F;font-weight: 605; font-size: large;"  href="/Contactenos.html">Contáctenos</a></li>
-              <li><a id="Nunito" style=" color: #303F9F;font-weight: 605; font-size: large;"  href="/login.html"><i class="material-icons large">person</i></a></li>
+              <li><a id="Nunito" style=" color: #303F9F;font-weight: 605; font-size: large;"  href="/frmCalculadoradeCreditos.aspx">Calculadora de créditos</a></li>
+              <li><a id="Nunito" style=" color: #303F9F;font-weight: 605; font-size: large;"  href="/frmContactenos.aspx">Contáctenos</a></li>
+              <li><a id="Nunito" style=" color: #303F9F;font-weight: 605; font-size: large;"  href="/frmLogin.aspx"><i class="material-icons large">person</i></a></li>
 
             </ul>
           </div>
@@ -54,10 +54,10 @@
       </div>
       </div>
       <ul class="sidenav" id="mobile-demo">
-        <li><a id="Nunito" href="index.html">Inicio</a></li>
-        <li><a id="Nunito" href="#">Créditos</a></li>
-        <li><a id="Nunito" href="#">Calculadora de créditos</a></li>
-        <li><a id="Nunito" href="#">Contáctenos</a></li>
+        <li><a id="Nunito" href="/Index.aspx">Inicio</a></li>
+        <li><a id="Nunito" href="/frmCreditosPersonales.aspx">Créditos</a></li>
+        <li><a id="Nunito" href="/frmCalculadoradeCreditos.aspx">Calculadora de créditos</a></li>
+        <li><a id="Nunito" href="/frmContactenos.aspx">Contáctenos</a></li>
       </ul>
     </div>
   </div>
@@ -87,7 +87,7 @@
               opciones de financiamiento.</h5>
             <br>
 
-            <a id="nunitobtn" href="/Registrarse.html" class="waves-effect waves-gray btn amber accent-2 indigo-text"><i
+            <a id="nunitobtn" href="/frmRegistrarse.aspx" class="waves-effect waves-gray btn amber accent-2 indigo-text"><i
                 class="material-icons right">person</i>Registrarse</a>
             <br>
             <br>
@@ -118,7 +118,7 @@
               <p>Con las mejores condiciones y servicios del mercado nacional.</p>
             </div>
             <div class="card-action indigo">
-              <a class="white-text hoverable" href="/CrediVivienda.html">Créditos de vivienda</a>
+              <a class="white-text hoverable" href="/frmCreditosVivienda.aspx">Créditos de vivienda</a>
             </div>
           </div>
         </div>
@@ -137,7 +137,7 @@
               <p>Con las mejores condiciones y servicios del mercado nacional.</p>
             </div>
             <div class="card-action indigo">
-              <a class="white-text hoverable" href="/CrediVehiculos.html">Créditos de vehículos</a>
+              <a class="white-text hoverable" href="/frmCreditosVehiculos.aspx">Créditos de vehículos</a>
             </div>
           </div>
         </div>
@@ -166,7 +166,7 @@
 
             </div>
             <div class="card-action indigo">
-              <a class="white-text hoverable" href="/CrediPersonles.html">Créditos personales</a>
+              <a class="white-text hoverable" href="/frmCreditosPersonales.aspx">Créditos personales</a>
             </div>
           </div>
         </div>
@@ -185,7 +185,7 @@
               <p>Gané tranquilidad unificando todas sus deudas, pagando una sola cuota mensual.</p>
             </div>
             <div class="card-action indigo">
-              <a class="white-text hoverable" href="/CrediPersonles.html">Unificación de deudas</a>
+              <a class="white-text hoverable" href="/frmCreditosPersonales.aspx">Unificación de deudas</a>
             </div>
           </div>
         </div>
@@ -200,7 +200,7 @@
 
       <div class="col s5 l5 white"></div>
       <div class="col s3 l3 ">
-        <a id="nunitobtn" href="/CrediPersonles.html"
+        <a id="nunitobtn" href="/frmCreditosPersonales.aspx"
           class="waves-effect waves-gray btn-large amber accent-2 indigo-text">Otros créditos</a>
       </div>
     </div>

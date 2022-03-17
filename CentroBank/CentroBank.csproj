@@ -72,14 +72,17 @@
     <Content Include="content\materialize\font\material-design-icons\LICENSE.txt" />
     <Content Include="content\materialize\font\material-design-icons\Material-Design-Icons.svg" />
     <Content Include="css\style.css" />
+    <Content Include="frmCalculadoradeCreditos.aspx" />
     <Content Include="frmCreditosPersonales.aspx" />
     <Content Include="frmCreditosVehiculos.aspx" />
     <Content Include="frmCreditosVivienda.aspx" />
+    <Content Include="frmLogin.aspx" />
+    <Content Include="frmRegistrarse.aspx" />
     <Content Include="img\20200811215130.leasing-renting.jpg" />
     <Content Include="img\20211105112646.carros-electricos.jpg" />
     <Content Include="img\2919600.png" />
     <Content Include="img\3078954.png" />
-    <Content Include="img\7-razones-por-las-que-comprar-un-lote-en-costa-rica-es-una-buena-idea - Copy.png" />
+    <Content Include="img\7-razones-por-las-que-comprar-un-lote-en-costa-rica-es-una-buena-idea.png" />
     <Content Include="img\about-img.jpg" />
     <Content Include="img\bancarización.jpg" />
     <Content Include="img\bank.jpg" />
@@ -94,6 +97,7 @@
     <Content Include="img\consulta-deudas.jpg" />
     <Content Include="img\credito-para-compra-de-vehiculo.jpg" />
     <Content Include="img\creditos-especificos.jpg" />
+    <Content Include="img\depositphotos_147823461-stock-photo-businesspeople-signing-papers.jpg" />
     <Content Include="img\depositphotos_30597729-stock-photo-hands-of-three-people-signing.jpg" />
     <Content Include="img\depositphotos_3201090-stock-photo-computer-lab.jpg" />
     <Content Include="img\DeudasOtraPersona.png" />
@@ -174,9 +178,16 @@
     <Content Include="Scripts\materialize\materialize.js" />
     <Content Include="Scripts\materialize\materialize.min.js" />
     <Content Include="Web.config" />
-    <Content Include="WebForm1.aspx" />
+    <Content Include="frmContactenos.aspx" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="frmCalculadoradeCreditos.aspx.cs">
+      <DependentUpon>frmCalculadoradeCreditos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmCalculadoradeCreditos.aspx.designer.cs">
+      <DependentUpon>frmCalculadoradeCreditos.aspx</DependentUpon>
+    </Compile>
     <Compile Include="frmCreditosPersonales.aspx.cs">
       <DependentUpon>frmCreditosPersonales.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -198,6 +209,20 @@
     <Compile Include="frmCreditosVivienda.aspx.designer.cs">
       <DependentUpon>frmCreditosVivienda.aspx</DependentUpon>
     </Compile>
+    <Compile Include="frmLogin.aspx.cs">
+      <DependentUpon>frmLogin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmLogin.aspx.designer.cs">
+      <DependentUpon>frmLogin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegistrarse.aspx.cs">
+      <DependentUpon>frmRegistrarse.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmRegistrarse.aspx.designer.cs">
+      <DependentUpon>frmRegistrarse.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Index.aspx.cs">
       <DependentUpon>Index.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -206,12 +231,12 @@
       <DependentUpon>Index.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="WebForm1.aspx.cs">
-      <DependentUpon>WebForm1.aspx</DependentUpon>
+    <Compile Include="frmContactenos.aspx.cs">
+      <DependentUpon>frmContactenos.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="WebForm1.aspx.designer.cs">
-      <DependentUpon>WebForm1.aspx</DependentUpon>
+    <Compile Include="frmContactenos.aspx.designer.cs">
+      <DependentUpon>frmContactenos.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
