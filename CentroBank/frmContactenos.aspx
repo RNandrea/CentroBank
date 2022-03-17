@@ -167,7 +167,7 @@
             </div>
             <div class="col s1 l1"></div>
             <div class="col s2 l2">
-                <h5 style="color: white;">Valores Centro Bank</h5>
+                <h5 style="color: white; font-size:110%; text-align:center">Valores Centro Bank</h5>
             </div>
             <div class="col s1 l1"></div>
             <div class="col s2 l2">
