@@ -62,5 +62,199 @@
     </div>
   </div>
   <!-- fin menu -->
+    
+<div id="contenedor2"></div>
+<div id="img2" >
+    <br>
+    <br>
+         <div id="contenedor4">
+             <div class="row">
+                
+                 <div class="col s12 l12">
+                     <div class="col s2 l2 "></div>
+                     <div class="col s8 l8 ">
+                         <br>
+                         <t1>Módulo Créditos</t1>
+                         <h5>Nos adecuamos a tus necesidades.</h5>
+                         
+                     </div>
+                 </div>
+             </div>
+         </div>
+     
+ </div>
+ <!-- fin  contenedor de imagen inicio css contenedorimg -->
+ <div id="contenedor2"></div>
+ 
+ <div id="espacio2"></div>
+
+
+
+
+<div id="contenedorsubt">
+    <div class="row">
+        <div class="col s1 l1"></div>
+        <div class="col s8 l8">
+            <div id="espacio3"></div>
+                <t2>
+                    Translado de Hipoteca
+                </t2>    
+        </div>
+    </div>
+   
+</div>
+
+<div id="espacio"></div>
+
+
+<!--inicio tarjetas -->
+<div class="contenedor3">
+    <div class="row">
+        <div class="col s1 l1"></div>
+        <div class="col s5 l5">
+            <div class="card" >
+                <div class="card-image waves-effect waves-block waves-light" style="height: 300px;">
+                    <img class="activator" src="/img/depositphotos_147823461-stock-photo-businesspeople-signing-papers.jpg"  style="height:300px;">
+                </div>
+                
+                <div class="card-content indigo lighten-5">
+                <span style="font-family: 'Nunito', sans-serif; font-weight: bolder;" class="card-title activator indigo-text text-darken-2">Beneficios<i class="material-icons right">more_vert</i></span>
+                
+                </div>
+                <div class="card-reveal indigo lighten-5">
+                <span style="font-family:'Nunito', sans-serif ;" class="card-title indigo-text text-darken-5">Beneficios<i class="material-icons right">close</i></span>
+                <br>
+                <lt>-Asesoría personalizada</lt>
+                <p>Te escuchamos, entendemos tu necesidad y te ofrecemos el plan más apto para tu proyecto.</p>
+                <lt>-Flexibilidad</lt>
+                <p>Rápido, simple y pensado para que estés en el hogar de tus sueños pronto.</p>
+                <lt>-Aprobación en pocos días</lt>
+                <p>Simplificamos todos los procesos para que podás obtener en menor tiempo la aprobación.</p>
+                <lt>-Trámite sencillo y rápida atención</lt>
+                <p>Nosotros nos encargamos del resto.</p>
+                <lt>-Forma sencilla de pago</lt>
+                <p>Realizá tu pago en nuestra Banca en Línea, desde celular con la aplicación móvil o en cualquier disponible en el país.</p>
+                         </div>
+            </div>
+        </div>
+        <div class="col s1 l1"></div>
+        <div class="col s4 l4">
+           
+                <div class="row">
+                    <div class="col s1 l3"></div>
+                <div class="card-image waves-effect waves-block waves-light">
+                <img class="activator" src="/img/beneficios.jpg" style="height: 200px; width: 200px; margin-top: 80px; margin-left: 10px;">
+                </div>
+            </div>
+       </div>
+        
+    </div>
+    <div id="espacio"></div>
+
+    <div class="row">
+        <div class="col s4 l4">
+           
+            <div class="row">
+                <div class="col s1 l3"></div>
+            
+            <div class="card-image waves-effect waves-block waves-light">
+            <img class="activator" src="/img/3078954.png" style="height: 200px; width: 200px; margin-top: 90px;margin-left: 160px; ">
+            </div>
+        </div>
+   </div>
+   <div class="col s2 l2"></div>
+        <div class="col s5 l5">
+            <div class="card">
+                <div class="card-image waves-effect waves-block waves-light" style="height: 300px;">
+                    <img class="activator" src="/img/refinanciacion-de-hipotecas-900x600.jpg" style="height: 300px;" >
+                </div>
+            
+                <div class="card-content indigo lighten-5">
+                <span style="font-family: 'Nunito', sans-serif; font-weight: bold;" class="card-title activator indigo-text text-darken-2">Condiciones y Requisitos<i class="material-icons right">more_vert</i></span>
+                
+                </div>
+                <div class="card-reveal indigo lighten-5">
+                <span style="font-family:'Nunito', sans-serif ;" class="card-title indigo-text text-darken-2">Condiciones<i class="material-icons right">close</i></span>
+                <br>
+                <lt>-Moneda:</lt>
+                <p>Colones y dólares</p>
+                <lt>-Financiación mínima:</lt>
+                <p>Desde los $10.000.</p>
+                <lt>-Porcentaje de financiación máxima:</lt>
+                <p>Hasta el 80% del valor del avalúo de la garantía.</p>
+                <lt>-Propósito:</lt>
+                <p>Traslado de Hipoteca.</p>
+                <lt>Plazo máximo:</lt>
+                <p>Hasta los 30 años.</p>
+                <lt>Plazo mínimo:</lt>
+                <p>Desde los 10 años.</p>
+                <lt>Seguros y coberturas:</lt>
+                <p>Saldo deudor, patrimonial y desempleo (si aplica).</p>
+                <br>
+                
+                <span style="font-family:'Nunito', sans-serif; font-size: x-large; " class=" indigo-text text-darken-2">Requisitos</span>
+                <br>
+                <br>
+                <p>- Formularios de solicitud de crédito y carta SUGEF.</p>
+                <p>- Fotocopia del documento de identificación vigente.</p>
+                <p>- Constancia de salario.</p>
+                <p>- Estudio de Salario de la CCSS 12 meses.</p>
+                <p>- Copia legible del plano catastro.</p>
+                <p>- Certificación de impuestos municipales al día.</p>   
+                <p>- Evidencia de prima en caso de compra de lote o casa.</p>        
+
+            </div>
+            </div>
+        </div>
+        <div class="col s1 l1"></div>
+    </div>
+    
+    <div id="espacio"></div>
+
+
+
+<!--inicio footer--> 
+
+<footer class="page-footer indigo darken-2 ">
+    <div class="container indigo darken-2 ">
+      <div class="row indigo darken-2 ">
+        <div class="col l6 s12 indigo darken-2 ">
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <img class=" responsive-img" src="img/logoCentroBank.png" height="60" >
+        </div>
+        <div class="col l4 offset-l2 s12 indigo darken-2 ">
+          <h5 class="white-text">Links</h5>
+          <ul>
+            <li><a id="Nunito1" href="#!">Inicio</a></li>
+            <li><a id="Nunito1" href="#!">Créditos</a></li>
+            <li><a id="Nunito1" href="#!">Calculadora de Créditos</a></li>
+            <li><a id="Nunito1" href="#!">Iniciar Sesión</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="footer-copyright indigo">
+      <div class="container text-lighten-4">
+        © 2022 Centro Bank de Costa Rica. Todos los derechos reservados.
+      </div>
+    </div>
+  </footer>
+<!--fin footer--> 
+
+
+    <!-- Compiled and minified JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <script scr="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+
+    <script>
+        M.AutoInit();
+    </script>
+      <script type="text/javascript" src="js/materialize.min.js"></script>
 </body>
 </html>

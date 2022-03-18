@@ -134,7 +134,7 @@
                     <div class="row" >
                         <div class="col s8 m8 l10"></div>
                         <div class="col s4 m4 l2">
-                            <a class="white-text hoverable" href="/CompraVvivienda.html">Ver más</a>
+                            <a class="white-text hoverable" href="/frmCompraVivienda.aspx">Ver más</a>
                         </div>
                     </div>
                 </div>
@@ -168,7 +168,7 @@
                     <div class="row" >
                         <div class="col s8 m8 l10"></div>
                         <div class="col s4 m4 l2">
-                            <a class="white-text hoverable" href="/CompraLote.html">Ver más</a>
+                            <a class="white-text hoverable" href="/frmCompraLote.aspx">Ver más</a>
                         </div>
                     </div>
                 </div>
@@ -201,7 +201,7 @@
                     <div class="row" >
                         <div class="col s8 m8 l10"></div>
                         <div class="col s4 m4 l2">
-                            <a class="white-text hoverable" href="/TranladoHipoteca.html">Ver más</a>
+                            <a class="white-text hoverable" href="/frmTransladoHipoteca.aspx">Ver más</a>
                         </div>
                     </div>
                 </div>

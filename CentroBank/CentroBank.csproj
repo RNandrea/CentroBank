@@ -86,8 +86,10 @@
     <Content Include="frmPrestamoMultiproposito.aspx" />
     <Content Include="frmPrestamosPersonal.aspx" />
     <Content Include="frmRegistrarse.aspx" />
+    <Content Include="frmSolicitudCredito.aspx" />
     <Content Include="frmTransladoHipoteca.aspx" />
     <Content Include="frmUnificacionDeudas.aspx" />
+    <Content Include="frmUsuarioAutenticado.aspx" />
     <Content Include="img\20200811215130.leasing-renting.jpg" />
     <Content Include="img\20211105112646.carros-electricos.jpg" />
     <Content Include="img\2919600.png" />
@@ -289,6 +291,13 @@
     <Compile Include="frmRegistrarse.aspx.designer.cs">
       <DependentUpon>frmRegistrarse.aspx</DependentUpon>
     </Compile>
+    <Compile Include="frmSolicitudCredito.aspx.cs">
+      <DependentUpon>frmSolicitudCredito.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmSolicitudCredito.aspx.designer.cs">
+      <DependentUpon>frmSolicitudCredito.aspx</DependentUpon>
+    </Compile>
     <Compile Include="frmTransladoHipoteca.aspx.cs">
       <DependentUpon>frmTransladoHipoteca.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -302,6 +311,13 @@
     </Compile>
     <Compile Include="frmUnificacionDeudas.aspx.designer.cs">
       <DependentUpon>frmUnificacionDeudas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmUsuarioAutenticado.aspx.cs">
+      <DependentUpon>frmUsuarioAutenticado.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmUsuarioAutenticado.aspx.designer.cs">
+      <DependentUpon>frmUsuarioAutenticado.aspx</DependentUpon>
     </Compile>
     <Compile Include="Index.aspx.cs">
       <DependentUpon>Index.aspx</DependentUpon>
